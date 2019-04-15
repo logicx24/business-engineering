@@ -66,9 +66,6 @@ const Layout = (props) => {
           ©
         {' '}
         {new Date().getFullYear()}
-, Built with
-        {' '}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>
     </div>
   );
